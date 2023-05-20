@@ -1,1 +1,1 @@
-$ gunicorn leomartinportfolio:app
+$ gunicorn main.py:app
